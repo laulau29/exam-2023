@@ -1,0 +1,8 @@
+---
+title: "Examen R Markdown"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
